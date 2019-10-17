@@ -5,6 +5,7 @@ Utilizaremos como base um projeto feito em arduino. Teremos que adaptar, pois ao
 No projeto foi usado um shield para fazer a comunicação em IoT, que também teremos que adaptar para nosso projeto.
 
 Figura 1 - Ilustração do Projeto
+![spoon_LudXsLZL1n](https://user-images.githubusercontent.com/47569587/67051016-56d3c280-f110-11e9-9274-99ddca5976a3.jpeg)
 
 FONTE:https://create.arduino.cc/projecthub/RupinC/assistive-spoon-for-patients-with-parkinson-s-3628b6?ref=search&ref_id=spoon&offset=0
 

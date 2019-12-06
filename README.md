@@ -1,4 +1,9 @@
 # ParkinSp00n
+Equipe:
+Brendon Wesley de Oliveira Bernardino - 415572
+Larissa Pacheco Montenegro - 392091
+Antônio Ricardo Coelho Alcântara Junior - 409913
+Gabriel Rocha Alves da Silva - 411584
 
 O objetivo do nosso projeto é ser capaz de entender quais são as dinâmicas e inclinações do sistema que podem ser acumuladas através da construção de um projeto que auxilie a alimentação de pessoas portadoras de parkinson, utilizando componentes prontos para uso, como servomotores, acelerômetros e giroscópios.
 Utilizaremos como base um projeto feito em arduino. Teremos que adaptar, pois ao invés de usar Arduino usaremos o ARM, STM32F030F4P6.

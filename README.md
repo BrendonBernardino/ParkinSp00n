@@ -1,6 +1,6 @@
 # ParkinSp00n
 Equipe:
-Brendon Wesley de Oliveira Bernardino - 415572
+Brendon Wesley de Oliveira Bernardino - 415572/n
 Larissa Pacheco Montenegro - 392091
 Antônio Ricardo Coelho Alcântara Junior - 409913
 Gabriel Rocha Alves da Silva - 411584

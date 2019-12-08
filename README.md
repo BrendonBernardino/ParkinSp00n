@@ -9,8 +9,6 @@ O objetivo do nosso projeto é ser capaz de entender quais são as dinâmicas e 
 Utilizaremos como base um projeto feito em arduino. Teremos que adaptar, pois ao invés de usar Arduino usaremos o ARM, STM32F030F4P6.
 No projeto foi usado um shield para fazer a comunicação em IoT, que também teremos que adaptar para nosso projeto.
 
-FONTE:https://create.arduino.cc/projecthub/RupinC/assistive-spoon-for-patients-with-parkinson-s-3628b6?ref=search&ref_id=spoon&offset=0
-
 
 
 Cronograma (prazos estimados):
@@ -20,11 +18,3 @@ Cronograma (prazos estimados):
 - Desenvolvimento do Código (01/11 - 15/11)
 - Montagem (15/11 - 31/11)
 
-
-
-
-
-
-Biografia: 
-
-https://create.arduino.cc/projecthub/RupinC/assistive-spoon-for-patients-with-parkinson-s-3628b6?ref=search&ref_id=spoon&offset=0

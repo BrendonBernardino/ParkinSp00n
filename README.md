@@ -17,7 +17,10 @@ Utilizaremos como base um projeto feito em arduino. Teremos que adaptar, pois ao
 
 Link dos vídeos de funcionamento da colher: <br />
 https://youtu.be/bMJNtRAf0uE <br />
-https://youtu.be/CDzGv9B5MHM 
+https://youtu.be/CDzGv9B5MHM <br/>
+
+Link dos vídeos tutoriais: <br/>
+- Ainda em desenvolvimento.
 
 Custo do projeto: (valores aproximados) <br/>
 - STM32F030F4P6 Cortex-M0 - R$20
@@ -40,3 +43,4 @@ Cronograma (prazos estimados):
 - Desenvolvimento do Código (01/11 - 15/11)
 - Montagem (15/11 - 31/11)
 
+OBS: Apesar de não termos atingido nossos objetivos, esse foi apenas um primeiro protótipo. O projeto está sendo continuado, e iremos postar futuros resultados aqui.

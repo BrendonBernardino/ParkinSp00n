@@ -15,6 +15,10 @@ Utilizaremos como base um projeto feito em arduino. Teremos que adaptar, pois ao
 ![spoon3](https://user-images.githubusercontent.com/47569587/70632893-66eab880-1c0e-11ea-9190-f55a3c09fbd2.jpg)
 
 
+Link dos vídeos de funcionamento da colher:
+https://youtu.be/bMJNtRAf0uE 
+
+
 
 Cronograma (prazos estimados):
 

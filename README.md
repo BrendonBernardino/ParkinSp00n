@@ -19,6 +19,18 @@ Link dos vídeos de funcionamento da colher: <br />
 https://youtu.be/bMJNtRAf0uE <br />
 https://youtu.be/CDzGv9B5MHM 
 
+Custo do projeto: (valores aproximados) <br/>
+- STM32F030F4P6 Cortex-M0 - R$20
+- MPU-6050 - R$17
+- 2 Micro Servos 9g SG90 TowerPro - R$15 cada, ou seja, R$30
+- Mini Protoboard - R$5
+- Kit 60 jumpers - R$15
+- Adaptador para bateria 9V com plug P4 (Não foi usado)- R$2,5
+- Fonte ajustável para Protoboard (Não foi usado)- R$7
+- Bateria 9V (Não foi usado)- R$5
+- Isopor 5mm - R$2
+- Colher de plástico 5un - 8R$
+- St-link V2 - R$23
 
 
 Cronograma (prazos estimados):

@@ -43,4 +43,4 @@ Cronograma (prazos estimados):
 - Desenvolvimento do Código (01/11 - 15/11)
 - Montagem (15/11 - 31/11)
 
-OBS: Apesar de não termos atingido nossos objetivos, esse foi apenas um primeiro protótipo. O projeto está sendo continuado, e iremos postar futuros resultados aqui.
+OBS: Apesar de não termos atingido nossos objetivos, esse foi apenas um primeiro protótipo. O projeto está sendo continuado, e iremos postar futuros resultados aqui. Como bons futuros engenheiros, buscaremos sempre o baixo custo, para assim, darmos acessibilidade ao meio não-acadêmico, para projetos funcionais e de alto nível.

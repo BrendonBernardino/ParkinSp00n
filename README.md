@@ -10,6 +10,8 @@ Utilizaremos como base um projeto feito em arduino. Teremos que adaptar, pois ao
 
 ![spoon](https://user-images.githubusercontent.com/47569587/70632511-b977a500-1c0d-11ea-9d8e-be8e05553af2.jpg)
 
+![spoon2](https://user-images.githubusercontent.com/47569587/70632590-e0ce7200-1c0d-11ea-8cce-b859bf0b7b6d.jpg)
+
 
 
 Cronograma (prazos estimados):

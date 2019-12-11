@@ -17,6 +17,7 @@ Utilizaremos como base um projeto feito em arduino. Teremos que adaptar, pois ao
 
 Link dos vídeos de funcionamento da colher:
 https://youtu.be/bMJNtRAf0uE 
+https://youtu.be/CDzGv9B5MHM 
 
 
 

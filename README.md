@@ -7,7 +7,8 @@ Gabriel Rocha Alves da Silva - 411584
 
 O objetivo do nosso projeto é ser capaz de entender quais são as dinâmicas e inclinações do sistema que podem ser acumuladas através da construção de um projeto que auxilie a alimentação de pessoas portadoras de parkinson, utilizando componentes prontos para uso, como servomotores, acelerômetros e giroscópios.
 Utilizaremos como base um projeto feito em arduino. Teremos que adaptar, pois ao invés de usar Arduino usaremos o ARM, STM32F030F4P6.
-No projeto foi usado um shield para fazer a comunicação em IoT, que também teremos que adaptar para nosso projeto.
+
+![spoon](https://user-images.githubusercontent.com/47569587/70632511-b977a500-1c0d-11ea-9d8e-be8e05553af2.jpg)
 
 
 

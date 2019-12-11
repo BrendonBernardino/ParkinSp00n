@@ -12,6 +12,8 @@ Utilizaremos como base um projeto feito em arduino. Teremos que adaptar, pois ao
 
 ![spoon2](https://user-images.githubusercontent.com/47569587/70632590-e0ce7200-1c0d-11ea-8cce-b859bf0b7b6d.jpg)
 
+![spoon3](https://user-images.githubusercontent.com/47569587/70632893-66eab880-1c0e-11ea-9190-f55a3c09fbd2.jpg)
+
 
 
 Cronograma (prazos estimados):

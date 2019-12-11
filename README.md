@@ -20,6 +20,7 @@ https://youtu.be/bMJNtRAf0uE <br />
 https://youtu.be/CDzGv9B5MHM <br/>
 
 Link dos vídeos tutoriais: <br/>
+https://youtu.be/YbOdbqQTHJA <br/>
 - Ainda em desenvolvimento.
 
 Custo do projeto: (valores aproximados) <br/>
